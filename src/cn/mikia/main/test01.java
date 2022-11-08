@@ -6,5 +6,6 @@ public class test01 {
         System.out.println("Hello Github!");
         System.out.println("push test!");
         System.out.println("push test!");
+        System.out.println("push test!");
     }
 }
